@@ -1,4 +1,4 @@
-package serviceGrpc
+package serviceGoMicro
 
 import (
 	"github.com/atom-providers/log"
