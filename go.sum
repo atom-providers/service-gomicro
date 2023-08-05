@@ -53,6 +53,8 @@ github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e h1:iMGwef/Y2P6m
 github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e/go.mod h1:u65RtavNWB462yx5hlFVPG7Bs5C6zCBLMPsW6rgRoSM=
 github.com/atom-providers/micro-gomicro v0.0.0-20230801062921-916296eb332a h1:MrzGBTEHz656Pssl9pN5RrX3iRfBhvHNyZo299qBjFY=
 github.com/atom-providers/micro-gomicro v0.0.0-20230801062921-916296eb332a/go.mod h1:nyWTgifqqH0fwOUS7QPool+PZA7yuGJR8/uydjMsU5Y=
+github.com/atom-providers/uuid v0.0.0-20230801062951-5331ee1b8af6 h1:NHpmXyqTc2LlSR6a2pdKIQgec1Xn4omNaK73WxO+o4s=
+github.com/atom-providers/uuid v0.0.0-20230801062951-5331ee1b8af6/go.mod h1:CO4G45VZd1ahxVrLWLG0BfiRWjd5W5IwE17XWL7aOOY=
 github.com/benbjohnson/clock v1.3.0 h1:ip6w0uFQkncKQ979AypyG0ER7mqUSBdKLOgAle/AT8A=
 github.com/bitly/go-simplejson v0.5.1 h1:xgwPbetQScXt1gh9BmoJ6j9JMr3TElvuIyjR8pgdoow=
 github.com/bitly/go-simplejson v0.5.1/go.mod h1:YOPVLzCfwK14b4Sff3oP1AmGhI9T9Vsg84etUnlyp+Q=
@@ -99,6 +101,8 @@ github.com/go-git/go-git/v5 v5.8.1/go.mod h1:FHFuoD6yGz5OSKEBK+aWN9Oah0q54Jxl0ab
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20191125211704-12ad95a8df72/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200222043503-6f7a984d4dc4/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
+github.com/gofrs/uuid v4.4.0+incompatible h1:3qXRTX8/NbyulANqlc0lchS1gqAVxRgsuW1YrTJupqA=
+github.com/gofrs/uuid v4.4.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
 github.com/golang/groupcache v0.0.0-20191227052852-215e87163ea7/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=

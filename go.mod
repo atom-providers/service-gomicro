@@ -5,6 +5,7 @@ go 1.18
 require (
 	github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e
 	github.com/atom-providers/micro-gomicro v0.0.0-20230801062921-916296eb332a
+	github.com/atom-providers/uuid v0.0.0-20230801062951-5331ee1b8af6
 	github.com/rogeecn/atom v1.0.8
 	github.com/spf13/cobra v1.7.0
 	go-micro.dev/v4 v4.10.2
@@ -25,6 +26,7 @@ require (
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
 	github.com/go-git/go-billy/v5 v5.4.1 // indirect
 	github.com/go-git/go-git/v5 v5.8.1 // indirect
+	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/uuid v1.3.0 // indirect
