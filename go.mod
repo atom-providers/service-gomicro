@@ -3,9 +3,9 @@ module github.com/atom-providers/service-gomicro
 go 1.18
 
 require (
-	github.com/atom-providers/log v0.0.0-20230804123152-5fa2777f1da1
+	github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e
 	github.com/atom-providers/micro-gomicro v0.0.0-20230801062921-916296eb332a
-	github.com/rogeecn/atom v1.0.6
+	github.com/rogeecn/atom v1.0.8
 	github.com/spf13/cobra v1.7.0
 	go-micro.dev/v4 v4.10.2
 	go.uber.org/dig v1.17.0
@@ -63,8 +63,8 @@ require (
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.13.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.11.1 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
