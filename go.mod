@@ -3,6 +3,7 @@ module github.com/atom-providers/service-gomicro
 go 1.18
 
 require (
+	github.com/atom-providers/app v0.0.0-20230811021217-98a085634a0a
 	github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e
 	github.com/atom-providers/micro-gomicro v0.0.0-20230801062921-916296eb332a
 	github.com/atom-providers/uuid v0.0.0-20230801062951-5331ee1b8af6

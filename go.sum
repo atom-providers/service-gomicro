@@ -49,6 +49,8 @@ github.com/acomagu/bufpipe v1.0.4 h1:e3H4WUzM3npvo5uv95QuJM3cQspFNtFBzvJ2oNjKIDQ
 github.com/acomagu/bufpipe v1.0.4/go.mod h1:mxdxdup/WdsKVreO5GpW4+M/1CE2sMG4jeGJ2sYmHc4=
 github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be h1:9AeTilPcZAjCFIImctFaOjnTIavg87rW78vTPkQqLI8=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:0CwZNZbxp69SHPdPJAN/hZIm0C4OItdklCFmMRWYpio=
+github.com/atom-providers/app v0.0.0-20230811021217-98a085634a0a h1:OFORaEhggBc4fDVztn2RGKUgAD5SiZcYFuKuMN0AUFk=
+github.com/atom-providers/app v0.0.0-20230811021217-98a085634a0a/go.mod h1:jEyNiOX15rOckt6/6IubcXp6fjj+s0y6xykMnRnBbfg=
 github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e h1:iMGwef/Y2P6mUHZqoFDDxstV5YXhRs8Qwf8IKfHDFZE=
 github.com/atom-providers/log v0.0.0-20230805054420-343ad809890e/go.mod h1:u65RtavNWB462yx5hlFVPG7Bs5C6zCBLMPsW6rgRoSM=
 github.com/atom-providers/micro-gomicro v0.0.0-20230801062921-916296eb332a h1:MrzGBTEHz656Pssl9pN5RrX3iRfBhvHNyZo299qBjFY=
